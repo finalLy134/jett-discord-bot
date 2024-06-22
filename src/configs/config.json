@@ -1,0 +1,16 @@
+{
+    "prefix": "j!",
+    "emoji": {
+        "play": "✅",
+        "stop": "⏹️",
+        "queue": "📄",
+        "success": "✅",
+        "repeat": "🔁",
+        "error": "❌",
+        "pause": "⏯",
+        "nosong": "❌",
+        "resumed": "✅",
+        "skip": "⏩",
+        "nowplaying": "<:disc:1027600347792941067>"
+    }
+}
